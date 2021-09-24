@@ -1,4 +1,4 @@
- # Most run scored by different cricketers 🚀
+ # Movie recomendation application 🚀
  
  ## This chat room is created using React Js
  
