@@ -15,7 +15,7 @@ const teckStack = {
     },
     {
       name: "Vue Js",
-      Creator: "6.5",
+      Creator: "Evan You",
       BasedOn: "JavaScript/Typescript"
     }
   ],
@@ -23,7 +23,7 @@ const teckStack = {
   Backend: [
     {
       name: "Flask",
-      Creator: "463",
+      Creator: "Armin ronacher",
       BasedOn: "Python"
     },
     {
@@ -33,7 +33,7 @@ const teckStack = {
     },
     {
       name: "Node Js",
-      Creator: "375",
+      Creator: "Ryan dahl",
       BasedOn: "JavaScript"
     }
   ],
@@ -51,7 +51,7 @@ const teckStack = {
     },
     {
       name: "MySQL",
-      Creator: "166",
+      Creator: "My SQL AB",
       BasedOn: "SQL"
     }
   ]
