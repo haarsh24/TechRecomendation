@@ -1,2 +1,12 @@
-# mostCricketRuns
-Created with CodeSandbox
+ # Most run scored by different cricketers 🚀
+ 
+ ## This chat room is created using React Js
+ 
+ ### Try it out: 🌟   [Live demo](https://0fsuu.csb.app/)
+ 
+### you can also view the code here on codesandbox [source code ](https://codesandbox.io/s/github/haarsh24/mostCricketRuns)
+ 
+ 
+<p align="center">
+Designed with ❤️ by <a href="https://kumarharsh.netlify.app">Harsh</a>
+</p>
